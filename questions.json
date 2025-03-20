@@ -1,0 +1,95 @@
+[
+    {
+        "question": "Which team is gonna be AUDI from 2026 season?",
+        "options": ["Visa Cashapp RB", "Atlassima Williams Racing", "Stake  F1 Team Kick Sauber", "Alpine"],
+        "correct": 2,
+        "svg": "<svg viewBox='0 0 200 200'><g transform='translate(50, 50)'><rect x='0' y='20' width='100' height='30' fill='#ff3333'/><rect x='10' y='10' width='80' height='10' fill='black'/><circle cx='20' cy='50' r='10' fill='black'/><circle cx='80' cy='50' r='10' fill='black'/><animateTransform attributeName='transform' type='translate' from='0 0' to='20 0' dur='1s' repeatCount='indefinite' additive='sum'/></g></svg>"
+    },
+    {
+        "question": "Which team is using Ferrari engines? ",
+        "options": ["Alpine", "Mercedes", "HAAS", "Visa Cashapp RB"],
+        "correct": 2,
+        "svg": "<svg viewBox='0 0 200 200'><path d='M20 180 Q50 100 100 100 Q150 100 180 180' stroke='gray' stroke-width='10' fill='none'/><path d='M20 180 Q50 100 100 100 Q150 100 180 180' stroke='white' stroke-width='5' stroke-dasharray='10' fill='none'><animate attributeName='stroke-dashoffset' from='0' to='20' dur='1s' repeatCount='indefinite'/></path></svg>"
+    },
+    {
+        "question": "What color is the Ferrari F1 car?",
+        "options": ["Silver", "Red", "Blue", "Yellow"],
+        "correct": 1,
+        "svg": "<svg viewBox='0 0 200 200'><path d='M50 150 Q100 50 150 150' fill='none' stroke='black' stroke-width='10'/><path d='M50 150 Q100 50 150 150' fill='url(#grad)' stroke='none'><defs><linearGradient id='grad' x1='0%' y1='0%' x2='100%' y2='0%'><stop offset='0%' style='stop-color:#ff3333'/><stop offset='100%' style='stop-color:#ff6666'/></linearGradient></defs><animateTransform attributeName='transform' type='rotate' from='0 100 100' to='360 100 100' dur='5s' repeatCount='indefinite'/></path></svg>"
+    },
+    {
+        "question": "Which circuit hosts the Belgian Grand Prix?",
+        "options": ["Silverstone", "Spa", "Monaco", "Monza"],
+        "correct": 2,
+        "svg": "<svg viewBox='0 0 200 200'><path d='M20 150 Q80 50 140 150 Q160 180 180 150 Q140 100 100 150 Q60 200 20 150' stroke='gray' stroke-width='10' fill='none'/><path d='M20 150 Q80 50 140 150 Q160 180 180 150 Q140 100 100 150 Q60 200 20 150' stroke='white' stroke-width='5' stroke-dasharray='10'><animate attributeName='stroke-dashoffset' from='0' to='20' dur='1s' repeatCount='indefinite'/></path></svg>"
+    },
+    {
+        "question": "Which driver has Nickname 'Honeybadger'?",
+        "options": ["Max Verstappen", "Carlos Sainz", "Daniel Ricciardo", "Lando Norris"],
+        "correct": 2,
+        "svg": "<svg viewBox='0 0 200 200'><rect x='50' y='50' width='100' height='100' fill='black'/><rect x='50' y='50' width='50' height='50' fill='white'/><rect x='100' y='100' width='50' height='50' fill='white'/><animateTransform attributeName='transform' type='translate' from='0 0' to='0 10' dur='0.5s' repeatCount='indefinite' direction='alternate'/></svg>"
+    },
+    {
+        "question": "Which driver is known for singing 'Smoooth Operatoor'?",
+        "options": ["Max Verstappen", "Carlos Sainz", "Daniel Ricciardo", "Lando Norris"],
+        "correct": 1,
+        "svg": "<svg viewBox='0 0 200 200'><rect x='80' y='120' width='40' height='60' fill='gold'/><path d='M80 120 Q100 80 120 120' fill='gold'/><circle cx='100' cy='80' r='20' fill='gold'/><animate attributeName='opacity' from='1' to='0.5' dur='1s' repeatCount='indefinite' direction='alternate'/></svg>"
+    },
+    {
+        "question": "Which country hosts the first F1 race of the season?",
+        "options": ["Australia", "Bahrain", "Italy", "Monaco"],
+        "correct": 0,
+        "svg": "<svg viewBox='0 0 200 200'><circle cx='100' cy='100' r='50' fill='none' stroke='orange' stroke-width='10'/><path d='M80 120 L120 80' stroke='black' stroke-width='5'/><path d='M80 80 L120 120' stroke='black' stroke-width='5'/><animateTransform attributeName='transform' type='rotate' from='0 100 100' to='360 100 100' dur='3s' repeatCount='indefinite'/></svg>"
+    },
+    {
+        "question": "which Driver is very familiar with 10 second penalty?",
+        "options": ["Esteban Ocon", "Nicolas Latifi", "Yuki Tsunoda", "Kevin Magnussen"],
+        "correct": 0,
+        "svg": "<svg viewBox='0 0 200 200'><rect x='50' y='100' width='100' height='20' fill='#1e41ff'/><rect x='60' y='80' width='80' height='20' fill='white'/><rect x='70' y='60' width='60' height='20' fill='yellow'/><animateTransform attributeName='transform' type='translate' from='0 0' to='20 0' dur='1s' repeatCount='indefinite' additive='sum'/></svg>"
+    },
+    {
+        "question": "Which driver has the record for most consecutive wins?",
+        "options":["Max Verstappen", "Carlos Sainz", "Fernando Alonso", "Lando Norris"],
+        "correct": 0,
+        "svg": "<svg viewBox='0 0 200 200'><path d='M100 50 L120 90 L160 90 L130 120 L140 160 L100 130 L60 160 L70 120 L40 90 L80 90 Z' fill='gold'><animate attributeName='opacity' from='1' to='0.5' dur='1s' repeatCount='indefinite' direction='alternate'/></path></svg>"
+    },
+    {
+        "question": "Old driver but still a rookie",
+        "options": ["Max Verstappen", "Carlos Sainz", "Fernando Alonso", "Sergio Perez"],
+        "correct": 2,
+        "svg": "<svg viewBox='0 0 200 200'><circle cx='100' cy='100' r='50' fill='none' stroke='black' stroke-width='10'/><circle cx='100' cy='100' r='30' fill='none' stroke='black' stroke-width='5'><animate attributeName='stroke-dasharray' from='0 188' to='188 0' dur='2s' repeatCount='indefinite'/></circle></svg>"
+    },
+    {
+        "question": "guess",
+        "options": ["1", "2", "3", "4"],
+        "correct": 3,
+        "svg": "<svg viewBox='0 0 200 200'><circle cx='100' cy='100' r='50' fill='none' stroke='black' stroke-width='10'/><circle cx='100' cy='100' r='30' fill='none' stroke='black' stroke-width='5'><animate attributeName='stroke-dasharray' from='0 188' to='188 0' dur='2s' repeatCount='indefinite'/></circle></svg>"
+    }
+    ,
+    {
+        "question": "Which place Red Bull Racing ended last year's Constructor`s Championship?",
+        "options": ["1", "2", "3", "4"],
+        "correct": 2,
+        "svg": "<svg viewBox='0 0 200 200'><circle cx='100' cy='100' r='50' fill='none' stroke='black' stroke-width='10'/><circle cx='100' cy='100' r='30' fill='none' stroke='black' stroke-width='5'><animate attributeName='stroke-dasharray' from='0 188' to='188 0' dur='2s' repeatCount='indefinite'/></circle></svg>"
+    }
+    ,
+    {
+        "question": "Question: Cool as ice and hailing from the land of a thousand lakes, veteran F1 driver Kimi Raikkonen calls which country home?",
+        "options": ["Denmark", "Sweden", "Finland", "Germany"],
+        "correct": 2,
+        "svg": "<svg viewBox='0 0 200 200'><circle cx='100' cy='100' r='50' fill='none' stroke='black' stroke-width='10'/><circle cx='100' cy='100' r='30' fill='none' stroke='black' stroke-width='5'><animate attributeName='stroke-dasharray' from='0 188' to='188 0' dur='2s' repeatCount='indefinite'/></circle></svg>"
+    }
+    ,
+    {
+        "question": "what do the letters DRS stand for (and no, it’s not a new dance craze)?",
+        "options": ["IDK just 3 weird letters", "Dancing revolutions", "Don`t Run There", "Drag Reduction System"],
+        "correct": 3,
+        "svg": "<svg viewBox='0 0 200 200'><circle cx='100' cy='100' r='50' fill='none' stroke='black' stroke-width='10'/><circle cx='100' cy='100' r='30' fill='none' stroke='black' stroke-width='5'><animate attributeName='stroke-dasharray' from='0 188' to='188 0' dur='2s' repeatCount='indefinite'/></circle></svg>"
+    }  ,
+    {
+        "question": "Guess Driver By His Career: Toro Rosso (2015–2017) · Renault (2017–2018) · McLaren (2019–2020) · Ferrari (2021–2024). ",
+        "options": ["Charles Leclerc", "Lewis Hamilton", "Carlos Sainz", "Sebastian Vettel"],
+        "correct": 2,
+        "svg": "<svg viewBox='0 0 200 200'><circle cx='100' cy='100' r='50' fill='none' stroke='black' stroke-width='10'/><circle cx='100' cy='100' r='30' fill='none' stroke='black' stroke-width='5'><animate attributeName='stroke-dasharray' from='0 188' to='188 0' dur='2s' repeatCount='indefinite'/></circle></svg>"
+    }
+]
