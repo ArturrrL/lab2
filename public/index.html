@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <title>F1 Quiz</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>F1 Knowledge Test</h1>
+    </header>
+    <main>
+        <div id="login-form" class="login-form">
+            <h2>Enter Your Name</h2>
+            <input type="text" id="username" placeholder="Your name">
+            <button id="start-btn">Start Test</button>
+        </div>
+        <aside class="question-nav" style="display: none;">
+            <h3>Questions</h3>
+            <ul id="question-list"></ul>
+        </aside>
+        <section class="quiz-container" style="display: none;">
+            <div class="svg-container">
+                <svg id="svg-image" width="200" height="200"></svg>
+            </div>
+            <div class="question-block" id="question-block">
+                <h2 id="question-text"></h2>
+                <ul id="options-list"></ul>
+            </div>
+            <div class="buttons">
+                <button id="next-btn">Next Question</button>
+                <button id="submit-btn" style="display: none;">Finish Test</button>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <div id="result" class="result-block"></div>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
